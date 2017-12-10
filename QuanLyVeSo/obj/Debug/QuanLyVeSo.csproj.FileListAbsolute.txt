@@ -1,8 +1,0 @@
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\bin\Debug\QuanLyVeSo.exe.config
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\bin\Debug\QuanLyVeSo.exe
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\bin\Debug\QuanLyVeSo.pdb
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\obj\Debug\QuanLyVeSo.csprojResolveAssemblyReference.cache
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\obj\Debug\QuanLyVeSo.csproj.CoreCompileInputs.cache
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\obj\Debug\QuanLyVeSo.exe
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\obj\Debug\QuanLyVeSo.pdb
-C:\Users\DangKhoiNguyen\Desktop\Working\QuanLyVeSo\QuanLyVeSo\bin\Debug\tickets.txt
